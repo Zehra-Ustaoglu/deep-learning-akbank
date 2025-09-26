@@ -40,7 +40,3 @@ Grad-CAM görselleri, modelin doğru tahminlerde genellikle hayvanın yüz bölg
 Bu proje, temel CNN mimarisinin kedi-köpek sınıflandırma probleminde etkili sonuçlar verdiğini göstermektedir. Daha yüksek başarı için daha derin ağlar (ör. VGG16, ResNet, EfficientNet gibi transfer learning modelleri) kullanılabilir.
 
 kaggle link : https://www.kaggle.com/code/zehraustaoglu/notebook8d977d7670
-
-Ekstra
-
-Hızlı hiperparametre aramaları (dropout & learning rate varyasyonları, subset veriyle tek epoch denemeler)
